@@ -1,0 +1,15 @@
+E:\C# workspace\SqlParameterFill\SqlParameterFill\bin\Debug\SqlParameterFill.exe.config
+E:\C# workspace\SqlParameterFill\SqlParameterFill\bin\Debug\SqlParameterFill.exe
+E:\C# workspace\SqlParameterFill\SqlParameterFill\bin\Debug\SqlParameterFill.pdb
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\SqlParameterFill.csprojAssemblyReference.cache
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\MainWindow.g.cs
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\App.g.cs
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\SqlParameterFill_MarkupCompile.cache
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\SqlParameterFill_MarkupCompile.lref
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\MainWindow.baml
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\SqlParameterFill.g.resources
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\SqlParameterFill.Properties.Resources.resources
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\SqlParameterFill.csproj.GenerateResource.cache
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\SqlParameterFill.csproj.CoreCompileInputs.cache
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\SqlParameterFill.exe
+E:\C# workspace\SqlParameterFill\SqlParameterFill\obj\Debug\SqlParameterFill.pdb
